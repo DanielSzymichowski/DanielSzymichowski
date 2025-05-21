@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielSzymichowski
 - 👀 I’m interested in HACKING NASA WITH HTML5
-- 🌱 I’m currently learning CSS/SCSS JS C#
+- 🌱 I’m currently learning CSS/SCSS, JS,TypeScript, Nodejs, C#, React/vite
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me? By emaill: daniel.szymichowski23@gmial.com
 
