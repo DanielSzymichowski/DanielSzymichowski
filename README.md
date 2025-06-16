@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielSzymichowski
 - 👀 I’m interested in Learning new stuff
 - 🌱 I’m currently learning CSS/SCSS, JS,TypeScript, Nodejs, C#, React/vite.
--    currently working on smarthome system based on react, nodejs,c++, raspberry as an miniserver, mulitiple devices as esp8266 including two-way communication(wifi,bluetooth,i2c) and bunch of relays
+-    currently working on smarthome system based on react, nodejs,c++, python raspberry as an miniserver, mulitiple esp8266 devices including two-way communication(wifi,bluetooth,i2c) and bunch of relays
 - 📫 How to reach me? By emaill: daniel.szymichowski23@gmial.com
 
 <!---
